@@ -11,8 +11,11 @@ Because the tool has not been packed as a directly-use .exe, it needs some envir
 5. Create an output folder to store the successfully converted videos, which has a structure as below (bold) :
 
 (Bilibili savings catalog)
+
 -bilibili
+
  |-load_log
+ 
  |-7355608(video folder that has not been converted)
  
  **|-output**
