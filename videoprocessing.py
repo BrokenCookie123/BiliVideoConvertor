@@ -142,7 +142,7 @@ def main():
             print("临时音视频文件已删除")
 
             shutil.rmtree(project_folder)
-            print(f"原始项目文件夹 [{project_folder.name}] [projname] [videoname] 已全部删除")
+            print(f"原始项目文件夹 [{project_folder.name}] [{projname}] [{videoname}] 已全部删除")
 
     print("\n==== 全部任务执行完毕 ====")
 
