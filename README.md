@@ -1,6 +1,6 @@
 # BiliVideoConvertor
 ## Introduction
-This is a small tool for convert video file that downloaded from Bilibili client to playable .mp4 file.
+This is a small tool for converting video file that downloaded from Bilibili client to playable .mp4 file.
 ## Environment Require (Temporarily)
 Because the tool has not been packed as a directly-use .exe, it needs some environments: **Python** and **FFmpeg**.
 ## Processing Mechanism
